@@ -1,0 +1,28 @@
+{
+  "name": "JSON-RPCs",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "list": [
+    {
+      "chainId": "EiBZK_GGVP0H_fXVAM3j6EAuz3-B-l3ejxRSewi7qIBfSA==",
+      "jsonRPCs": [
+        {
+          "url": "https://api.koinos.io",
+          "owner": "https://koinos.group"
+        }
+      ]
+    },
+    {
+      "chainId": "EiAAKqFi-puoXnuJTdn7qBGGJa8yd-dcS2P0ciODe4wupQ==",
+      "jsonRPCs": [
+        {
+          "url": "https://harbinger-api.koinos.io",
+          "owner": "https://koinos.group"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "GRPCs",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "list": [
+    {
+      "chainId": "EiBZK_GGVP0H_fXVAM3j6EAuz3-B-l3ejxRSewi7qIBfSA==",
+      "GRPCs": [
+        
+      ]
+    },
+    {
+      "chainId": "EiAAKqFi-puoXnuJTdn7qBGGJa8yd-dcS2P0ciODe4wupQ==",
+      "GRPCs": [
+        
+      ]
+    }
+  ]
+}

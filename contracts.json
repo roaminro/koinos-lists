@@ -1,0 +1,98 @@
+{
+  "name": "Contracts",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "list": [
+    {
+      "chainId": "EiBZK_GGVP0H_fXVAM3j6EAuz3-B-l3ejxRSewi7qIBfSA==",
+      "contracts": [
+        {
+          "name": "nameservice",
+          "description": "System name service contract",
+          "level": "system",
+          "address": "19WxDJ9Kcvx4VqQFkpwVmwVEy1hMuwXtQE"
+        },
+        {
+          "name": "resources",
+          "description": "System resources market contract",
+          "level": "system",
+          "address": "1HGN9h47CzoFwU2bQZwe6BYoX4TM6pXc4b"
+        },
+        {
+          "name": "koin",
+          "description": "Koin token",
+          "level": "system",
+          "address": "15DJN4a8SgrbGhhGksSBASiSYjGnMU8dGL"
+        },
+        {
+          "name": "vhp",
+          "description": "Virtual Hash Power token",
+          "level": "system",
+          "address": "1AdzuXSpC6K9qtXdCBgD5NUpDNwHjMgrc9"
+        },
+        {
+          "name": "pob",
+          "description": "Proof of Burn contract",
+          "level": "system",
+          "address": "159myq5YUhhoVWu3wsHKHiJYKPKGUrGiyv"
+        },
+        {
+          "name": "governance",
+          "description": "Governance contract",
+          "level": "system",
+          "address": "19qj51eTbSFJYU7ZagudkpxPgNSzPMfdPX"
+        },
+        {
+          "name": "claim",
+          "description": "Koin claim contract",
+          "level": "system",
+          "address": "18zw3ZokdfHtudzaWAUnU4tUvKzKiJeN76"
+        }
+      ]
+    },
+    {
+      "chainId": "EiAAKqFi-puoXnuJTdn7qBGGJa8yd-dcS2P0ciODe4wupQ==",
+      "contracts": [
+        {
+          "name": "nameservice",
+          "description": "System name service contract",
+          "level": "system",
+          "address": "1AM1c73tDNTc24KYqYvSHmoZ2C7oe4DZhh"
+        },
+        {
+          "name": "resources",
+          "description": "System resources market contract",
+          "level": "system",
+          "address": "1BXi4SX4jjbaLzcRbmRKtpMQbQmFYnmX9Z"
+        },
+        {
+          "name": "koin",
+          "description": "Koin token",
+          "level": "system",
+          "address": "19JntSm8pSNETT9aHTwAUHC5RMoaSmgZPJ"
+        },
+        {
+          "name": "vhp",
+          "description": "Virtual Hash Power token",
+          "level": "system",
+          "address": "1JZqj7dDrK5LzvdJgufYBJNUFo88xBoWC8"
+        },
+        {
+          "name": "pob",
+          "description": "Proof of Burn contract",
+          "level": "system",
+          "address": "198RuEouhgiiaQm7uGfaXS6jqZr6g6nyoR"
+        },
+        {
+          "name": "governance",
+          "description": "Governance contract",
+          "level": "system",
+          "address": "147aWsRsveXK4jwz5bdLumJv3yfF95woSc"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "KCS-1",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "list": [
+    {
+      "chainId": "EiBZK_GGVP0H_fXVAM3j6EAuz3-B-l3ejxRSewi7qIBfSA==",
+      "tokens": [
+        {
+          "address": "15DJN4a8SgrbGhhGksSBASiSYjGnMU8dGL",
+          "name": "Koin",
+          "symbol": "KOIN",
+          "decimals": 8
+        },
+        {
+          "address": "1AdzuXSpC6K9qtXdCBgD5NUpDNwHjMgrc9",
+          "name": "Virtual Hash Power",
+          "symbol": "VHP",
+          "decimals": 8
+        }
+      ]
+    },
+    {
+      "chainId": "EiAAKqFi-puoXnuJTdn7qBGGJa8yd-dcS2P0ciODe4wupQ==",
+      "tokens": [
+        {
+          "address": "19JntSm8pSNETT9aHTwAUHC5RMoaSmgZPJ",
+          "name": "Test Koin",
+          "symbol": "tKOIN",
+          "decimals": 8
+        },
+        {
+          "address": "1JZqj7dDrK5LzvdJgufYBJNUFo88xBoWC8",
+          "name": "Test Virtual Hash Power",
+          "symbol": "tVHP",
+          "decimals": 8
+        }
+      ]
+    }
+  ]
+}
